@@ -50,5 +50,3 @@
 - SE avanza{
     - Metto in frigo la pizza avanzata;
 }
-
-
