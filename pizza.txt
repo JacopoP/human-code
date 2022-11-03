@@ -43,7 +43,7 @@
     - Taglio la pizza;
 }
 
-- FINCHè ho fame{
+- FINCHè ho fame E c'è pizza{
     - Mangio la pizza;
 }
 
